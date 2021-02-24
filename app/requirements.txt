@@ -1,0 +1,9 @@
+Flask
+Keras-Preprocessing
+Keras-Applications
+Jinja2
+tensorflow
+numpy
+Pillow
+Werkzeug
+h5py<3.0.0
